@@ -1,6 +1,6 @@
 # Local Host Guide
 
 - [x] (T) Reverse Engineering Luma, search + extracting info from events 
-- [ ] (G) [AirBnB unofficial API](https://github.com/HalmonLui/airbnb-api)
-- [ ] (E) [Yelp](https://docs.developer.yelp.com/reference/v3_business_search)
-- [ ] (T) connect front to back
+- [x] (G) [AirBnB unofficial API](https://github.com/HalmonLui/airbnb-api)
+- [x] (E) [Yelp](https://docs.developer.yelp.com/reference/v3_business_search)
+- [x] (T) connect front to back
